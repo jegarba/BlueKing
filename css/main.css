@@ -705,7 +705,7 @@ hr {
 }
 
 .about-home .main-content p {
-    font-size: 14px;
+    font-size: 24px;
     font-weight: 500;
     color: #a3a3a3;
     line-height: 25px;
@@ -857,7 +857,7 @@ hr {
 }
 
 .testimonial_2 p {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 300;
     display: inline;
 }
@@ -934,7 +934,7 @@ hr {
 }
 
 .blogs-home p {
-    font-size: 14px;
+    font-size: 24px;
     font-weight: 500;
     color: #a3a3a3;
     letter-spacing: 0.5px;
@@ -1000,7 +1000,7 @@ hr {
 }
 
 .blogs-home .blog-list .bottom-details p {
-    font-size: 14px;
+    font-size: 24px;
     line-height: 28px;
     font-weight: 300;
 }
@@ -1073,7 +1073,7 @@ hr {
 
 .subscribe p {
     color: #a3a3a3;
-    font-size: 14px;
+    font-size: 24px;
     font-weight: 500;
 }
 
@@ -1132,7 +1132,7 @@ footer ul li {
 
 footer p {
     position: relative;
-    font-size: 16px;
+    font-size: 26px;
     letter-spacing: 0.6px;
     font-weight: 500;
     padding-bottom: 30px;
