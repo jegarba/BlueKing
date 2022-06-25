@@ -46,7 +46,11 @@ h5,
 h6,
 ul {
     margin: 0px;
-    padding: 0px
+    padding: 0px;
+}
+
+h2{
+    font-weight:bold;
 }
 
 ul {
@@ -317,13 +321,13 @@ hr {
     font-size: 14px;
     font-weight: 500;
     float: right;
-    background-color: #ad3284;
-    border-color: #ad3284;
+    background-color: #F0C;
+    border-color: #F0C;
     letter-spacing: 0.5px;
     height: 50px;
     border-radius: 0;
     text-transform: uppercase;
-    border: 2px solid #ad3284;
+    border: 2px solid #F0C;
 }
 
 .jumbotron select {
@@ -520,7 +524,7 @@ hr {
 }
 
 .theme .heading {
-    color: #ad3284;
+    color: #F0C;
     font-size: 30px;
     font-weight: 600;
     letter-spacing: -1px;
@@ -676,7 +680,7 @@ hr {
 }
 
 .about-home h3 {
-    color: #ad3284;
+    color: #F0C;
     font-size: 32px;
     font-weight: 500;
     padding-bottom: 20px;
@@ -924,7 +928,7 @@ hr {
 }
 
 .blogs-home .heading {
-    color: #ad3284;
+    color: #F0C;
     font-size: 30px;
     font-weight: 600;
     letter-spacing: -1px;
@@ -1064,7 +1068,7 @@ hr {
 
 .subscribe h2 {
     padding-bottom: 30px;
-    color: #ad3284;
+    color: #F0C;
     font-size: 32px;
     font-weight: 500;
     letter-spacing: -0.5px;
@@ -1111,8 +1115,8 @@ footer {
     height: auto;
     color: #ffffff;
     position: relative;
-    padding-top: 60px;
-    padding-bottom: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -1231,7 +1235,7 @@ footer .gradient {
 }
 
 #about-us h3 {
-    color: #ad3284;
+    color: #F0C;
     font-size: 33px;
     padding-bottom: 50px;
     text-transform: uppercase;
@@ -1287,7 +1291,7 @@ footer .gradient {
 }
 
 .portfolio h3 {
-    color: #ad3284;
+    color: #F0C;
     font-size: 32px;
     font-weight: 400;
     padding-bottom: 40px;
@@ -1344,7 +1348,7 @@ footer .gradient {
 }
 
 .services h2 {
-    color: #ad3284;
+    color: #F0C;
     font-size: 32px;
     font-weight: 500;
     letter-spacing: -1px;
@@ -1401,7 +1405,7 @@ footer .gradient {
 }
 
 .support h3 {
-    color: #ad3284;
+    color: #F0C;
     font-size: 32px;
     padding-bottom: 30px;
     text-transform: uppercase;
@@ -1455,8 +1459,8 @@ footer .gradient {
     width: 310px;
     font-size: 14px;
     float: right;
-    background-color: #ad3284;
-    border-color: #ad3284;
+    background-color: #F0C;
+    border-color: #F0C;
     height: 50px;
     border-radius: 0;
     text-transform: uppercase;
@@ -1531,7 +1535,7 @@ footer .gradient {
 }
 
 .blog-page.blogs-home .heading {
-    color: #ad3284;
+    color: #F0C;
     font-size: 30px;
     font-weight: 600;
     letter-spacing: -1px;
@@ -1673,8 +1677,8 @@ footer .gradient {
     color: #fff;
     font-size: 14px;
     font-weight: 500;
-    background-color: #ad3284;
-    border-color: #ad3284;
+    background-color: #F0C;
+    border-color: #F0C;
     text-transform: uppercase;
     border-radius: 0;
     letter-spacing: 0.5px;
@@ -1756,8 +1760,8 @@ footer .gradient {
     width: 310px;
     font-size: 14px;
     float: right;
-    background-color: #ad3284;
-    border-color: #ad3284;
+    background-color: #F0C;
+    border-color: #F0C;
     height: 50px;
     border-radius: 0;
     text-transform: uppercase;
