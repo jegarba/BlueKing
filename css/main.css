@@ -535,7 +535,7 @@ hr {
 }
 
 .theme p {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 500;
     color: #a3a3a3;
     letter-spacing: 0.5px;
@@ -544,7 +544,7 @@ hr {
 }
 
 .theme p:last-child {
-    text-align: center;
+    text-align: left;
 }
 
 .theme .box-1 {
@@ -647,7 +647,7 @@ hr {
 }
 
 .theme h5 {
-    color: #00a651;
+    color: rgb(194, 33, 97);
     font-size: 28px;
     font-weight: 500;
     padding-bottom: 20px;
@@ -1115,8 +1115,8 @@ footer {
     height: auto;
     color: #ffffff;
     position: relative;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
